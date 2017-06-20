@@ -1,0 +1,193 @@
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\AngularJs_MVC_Routing.dll.config
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\AngularJs_MVC_Routing.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\AngularJs_MVC_Routing.pdb
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Antlr3.Runtime.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\EntityFramework.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\EntityFramework.SqlServer.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Google.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Newtonsoft.Json.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Owin.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Helpers.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Mvc.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Optimization.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Razor.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.WebPages.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\WebGrease.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Helpers.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Mvc.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Optimization.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.Razor.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.WebPages.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Antlr3.Runtime.pdb
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Newtonsoft.Json.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\EntityFramework.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\EntityFramework.SqlServer.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Google.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\obj\Debug\AngularJs_MVC_Routing.csprojResolveAssemblyReference.cache
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\obj\Debug\AngularJs_MVC_Routing.dll
+F:\Projects\Training\AngularJS\Examples\AngularJs_MVC_Routing\obj\Debug\AngularJs_MVC_Routing.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.dll.config
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Entities.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Interfaces.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\FluentValidation.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\Microsoft.Web.Infrastructure.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\Newtonsoft.Json.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\System.Linq.Dynamic.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\System.Net.Http.Formatting.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\System.Web.Http.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\System.Web.Http.WebHost.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\WebActivator.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Entities.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Interfaces.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\FluentValidation.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\FluentValidation.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\Newtonsoft.Json.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\System.Net.Http.Formatting.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\System.Web.Http.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\System.Web.Http.WebHost.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\Microsoft.Web.Infrastructure.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\WebActivator.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\de\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\es\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\fr\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\it\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\ko\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\nl\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\pl\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\pt\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\ru\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\sv\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\tr\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.csprojResolveAssemblyReference.cache
+G:\Angular Apps\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Common.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Common.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.dll.config
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Entities.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Data.EntityFramework.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Interfaces.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\FluentValidation.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\Microsoft.Web.Infrastructure.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\Newtonsoft.Json.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\System.Linq.Dynamic.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\System.Net.Http.Formatting.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\System.Web.Http.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\System.Web.Http.WebHost.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\WebActivator.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Common.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Entities.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Data.EntityFramework.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Interfaces.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\FluentValidation.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\FluentValidation.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\Newtonsoft.Json.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\System.Net.Http.Formatting.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\System.Web.Http.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\System.Web.Http.WebHost.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\Microsoft.Web.Infrastructure.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\WebActivator.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Common.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\de\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\es\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\fr\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\it\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\ko\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\nl\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\pl\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\pt\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\ru\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\sv\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\bin\tr\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.csprojResolveAssemblyReference.cache
+E:\AngularApps\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.dll.config
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\AngularJs_MVC_Routing.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Business.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Entities.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Interfaces.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\FluentValidation.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\Microsoft.Web.Infrastructure.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\Newtonsoft.Json.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\System.Linq.Dynamic.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\System.Net.Http.Formatting.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\System.Web.Http.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\System.Web.Http.WebHost.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\WebActivator.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Common.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Business.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Entities.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Interfaces.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\FluentValidation.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\FluentValidation.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\FluentValidation.Mvc.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\Newtonsoft.Json.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\System.Net.Http.Formatting.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\System.Web.Http.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\System.Web.Http.WebHost.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\Microsoft.Web.Infrastructure.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\WebActivator.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\CodeProject.Business.Common.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\de\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\es\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\fr\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\it\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\ko\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\nl\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\pl\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\pt\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\ru\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\sv\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\bin\tr\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.csprojResolveAssemblyReference.cache
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\obj\Debug\AngularJs_MVC_Routing.pdb

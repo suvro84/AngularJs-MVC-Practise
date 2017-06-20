@@ -1,0 +1,63 @@
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Common.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Common.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.xml
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\de\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\es\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\fr\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\it\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\ko\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\nl\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\pl\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\pt\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\ru\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\sv\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\tr\FluentValidation.resources.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.csprojResolveAssemblyReference.cache
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Common.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Common.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Entities.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Entities.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.xml
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\de\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\es\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\fr\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\it\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\ko\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\nl\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\pl\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\pt\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\ru\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\sv\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\tr\FluentValidation.resources.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.csprojResolveAssemblyReference.cache
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Common.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Common.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\FluentValidation.xml
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\de\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\es\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\fr\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\it\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\ko\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\nl\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\pl\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\pt\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\ru\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\sv\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\bin\Debug\tr\FluentValidation.resources.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.csprojResolveAssemblyReference.cache
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Common\obj\Debug\CodeProject.Business.Common.pdb

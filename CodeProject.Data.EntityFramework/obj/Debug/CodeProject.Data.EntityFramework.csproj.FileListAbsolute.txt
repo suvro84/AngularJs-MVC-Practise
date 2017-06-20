@@ -1,0 +1,62 @@
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll.config
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Common.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\EntityFramework.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\FluentValidation.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Common.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\EntityFramework.xml
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\FluentValidation.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\FluentValidation.xml
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\da\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\de\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\es\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\fi\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\fr\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\it\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\ko\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\mk\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\nl\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\pl\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\pt\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\ru\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\sv\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\bin\Debug\tr\FluentValidation.resources.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.csprojResolveAssemblyReference.cache
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.csprojResolveAssemblyReference.cache
+G:\Angular Apps\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll.config
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.csprojResolveAssemblyReference.cache
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll.config
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Entities.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Interfaces.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Entities.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Interfaces.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.csprojResolveAssemblyReference.cache
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll.config
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Data.EntityFramework.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\bin\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.csprojResolveAssemblyReference.cache
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Data.EntityFramework\obj\Debug\CodeProject.Data.EntityFramework.pdb

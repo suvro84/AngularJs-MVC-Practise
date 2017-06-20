@@ -1,0 +1,19 @@
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.csprojResolveAssemblyReference.cache
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.csprojResolveAssemblyReference.cache
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.csprojResolveAssemblyReference.cache

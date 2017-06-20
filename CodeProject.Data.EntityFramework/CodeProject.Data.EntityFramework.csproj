@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B2D82D0-FEB1-49C5-B982-E37E8E5AA81D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodeProject.Data.EntityFramework</RootNamespace>
+    <AssemblyName>CodeProject.Data.EntityFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="CodeProjectDatabase.cs" />
+    <Compile Include="DataServices\CustomerDataService.cs" />
+    <Compile Include="DynamicLibrary.cs" />
+    <Compile Include="EntityFrameworkService.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\CodeProject.Business.Common.dll" />
+    <Content Include="bin\Debug\CodeProject.Business.Common.pdb" />
+    <Content Include="bin\Debug\CodeProject.Business.Entities.dll" />
+    <Content Include="bin\Debug\CodeProject.Business.Entities.pdb" />
+    <Content Include="bin\Debug\CodeProject.Data.EntityFramework.dll" />
+    <Content Include="bin\Debug\CodeProject.Data.EntityFramework.pdb" />
+    <Content Include="bin\Debug\CodeProject.Interfaces.dll" />
+    <Content Include="bin\Debug\CodeProject.Interfaces.pdb" />
+    <Content Include="bin\Debug\da\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\de\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\es\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\fi\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\FluentValidation.dll" />
+    <Content Include="bin\Debug\FluentValidation.pdb" />
+    <Content Include="bin\Debug\FluentValidation.xml" />
+    <Content Include="bin\Debug\fr\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\it\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\ko\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\mk\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\nl\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\pl\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\pt\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\ru\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\sv\FluentValidation.resources.dll" />
+    <Content Include="bin\Debug\tr\FluentValidation.resources.dll" />
+    <Content Include="CodeProject.Data.EntityFramework.sln" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\Debug\CodeProject.Data.EntityFramework.dll.config" />
+    <None Include="CodeProject.Data.EntityFramework.v12.suo" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CodeProject.Business.Entities\CodeProject.Business.Entities.csproj">
+      <Project>{9c1f3fb1-5fd4-4ed6-bbb6-ff1b108a7cf4}</Project>
+      <Name>CodeProject.Business.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeProject.Interfaces\CodeProject.Interfaces.csproj">
+      <Project>{9d4fbe89-2d38-4e9f-a4b2-306e78816d8a}</Project>
+      <Name>CodeProject.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

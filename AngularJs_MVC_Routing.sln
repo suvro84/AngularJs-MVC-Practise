@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJs_MVC_Routing", "AngularJs_MVC_Routing.csproj", "{83F2C399-A6C2-4727-B2C7-7E2169B03F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Data.EntityFramework", "CodeProject.Data.EntityFramework\CodeProject.Data.EntityFramework.csproj", "{6B2D82D0-FEB1-49C5-B982-E37E8E5AA81D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Business.Entities", "CodeProject.Business.Entities\CodeProject.Business.Entities.csproj", "{9C1F3FB1-5FD4-4ED6-BBB6-FF1B108A7CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Interfaces", "CodeProject.Interfaces\CodeProject.Interfaces.csproj", "{9D4FBE89-2D38-4E9F-A4B2-306E78816D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Business", "CodeProject.Business\CodeProject.Business.csproj", "{9834F804-DA0A-4370-AE50-24A0765738EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Business.Common", "CodeProject.Business.Common\CodeProject.Business.Common.csproj", "{FCFB71BA-1727-483F-A3DA-1B7B8A0E6B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F2C399-A6C2-4727-B2C7-7E2169B03F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F2C399-A6C2-4727-B2C7-7E2169B03F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F2C399-A6C2-4727-B2C7-7E2169B03F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F2C399-A6C2-4727-B2C7-7E2169B03F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2D82D0-FEB1-49C5-B982-E37E8E5AA81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2D82D0-FEB1-49C5-B982-E37E8E5AA81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2D82D0-FEB1-49C5-B982-E37E8E5AA81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2D82D0-FEB1-49C5-B982-E37E8E5AA81D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1F3FB1-5FD4-4ED6-BBB6-FF1B108A7CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1F3FB1-5FD4-4ED6-BBB6-FF1B108A7CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1F3FB1-5FD4-4ED6-BBB6-FF1B108A7CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1F3FB1-5FD4-4ED6-BBB6-FF1B108A7CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4FBE89-2D38-4E9F-A4B2-306E78816D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4FBE89-2D38-4E9F-A4B2-306E78816D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4FBE89-2D38-4E9F-A4B2-306E78816D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4FBE89-2D38-4E9F-A4B2-306E78816D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9834F804-DA0A-4370-AE50-24A0765738EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9834F804-DA0A-4370-AE50-24A0765738EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9834F804-DA0A-4370-AE50-24A0765738EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9834F804-DA0A-4370-AE50-24A0765738EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFB71BA-1727-483F-A3DA-1B7B8A0E6B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFB71BA-1727-483F-A3DA-1B7B8A0E6B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFB71BA-1727-483F-A3DA-1B7B8A0E6B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFB71BA-1727-483F-A3DA-1B7B8A0E6B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

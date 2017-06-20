@@ -1,0 +1,22 @@
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Interfaces\bin\Debug\CodeProject.Business.Entities.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Interfaces\bin\Debug\CodeProject.Business.Entities.pdb
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.csprojResolveAssemblyReference.cache
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\CodeProjectBundle-noexe\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.csprojResolveAssemblyReference.cache
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.dll
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.pdb
+E:\AngularApps\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.csprojResolveAssemblyReference.cache
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.dll
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.pdb
+G:\Angular Apps\14.6.2017\AngularJs-MVC-Routing-master (3)\AngularJs-MVC-Routing-master\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.csprojResolveAssemblyReference.cache
